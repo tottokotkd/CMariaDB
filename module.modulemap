@@ -1,0 +1,4 @@
+module CMariaDB [system] {
+    header "mysql.h"
+    export *
+}
